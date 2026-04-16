@@ -2,7 +2,7 @@
     "display_name": "OnlyFans Reactions",
     "loading_order": 101,
     "author": "JJangKKang",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "js": "index.js",
     "css": "style.css"
 }
