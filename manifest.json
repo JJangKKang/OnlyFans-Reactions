@@ -1,8 +1,0 @@
-{
-    "display_name": "OnlyFans Reactions",
-    "loading_order": 101,
-    "author": "JJangKKang",
-    "version": "1.0.0",
-    "js": "index.js",
-    "css": "style.css"
-}
